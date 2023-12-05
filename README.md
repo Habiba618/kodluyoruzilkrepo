@@ -1,4 +1,4 @@
 * header1
-** header2
+
 - 1
 - 2
